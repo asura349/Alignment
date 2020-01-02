@@ -16,7 +16,7 @@ The differences between Mplus alignment and my code are,
 
 Because of these differences, this code can analysis second-order model.
 
-I have implemented this while studying my master's dissertation.
+I have implemented this while studying my master's thesis.
 
 See here for more detail.
 
