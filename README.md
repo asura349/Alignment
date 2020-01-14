@@ -1,5 +1,3 @@
-perfection8@naver.com
-
 This code can test approximate measurement invariance(Alignment).
 
 See here for more detail on "Alignment"(in Mplus).
@@ -25,3 +23,5 @@ See here for more detail.
 http://www.riss.kr/link?id=T15073557
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+E-mail : perfection8@naver.com
