@@ -27,6 +27,7 @@ convert.metric.load<- function( lambda, psi ) {
     num.group<- nrow(lambda)
     metric.load<- lambda * Inf
     
+    # positive value
     psi[psi<=0]<- 0.001
     
     for(i in 1:num.item) {
@@ -42,9 +43,10 @@ convert.metric.load<- function( lambda, psi ) {
 convert.metric.int<- function ( lambda, nu, psi, alpha ) {
     
     num.item<- ncol(lambda)
-    num.group<- nrow(lambda)
-    
+    num.group<- nrow(lambda)    
     metric.int<- nu * Inf
+    
+    # positive value
     psi[psi<=0]<- 0.001
     
     for ( i in 1:num.item ) {
