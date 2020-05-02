@@ -7,10 +7,11 @@ simplicity<- function(lambda0, nu0, psi, alpha, sample) {
     sample.sq<- matrix( sqrt(sample), length(sample), ncol(lambda0))
     wgt.sum<- sum(sample.sq[comb[,1],1 ] * sample.sq[comb[,2],1 ])
     
+    # lambda(loading) simplicity
     metric.load<- convert.metric.load(lambda0, psi)
     simpl.lambda<- simpl.cal(metric.load, sample.sq, wgt.sum)
     
-    # nu simplicity
+    # nu(intercept) simplicity
     metric.int<- convert.metric.int(lambda0, nu0, psi, alpha)
     simpl.nu<- simpl.cal(metric.int, sample.sq, wgt.sum)
     
