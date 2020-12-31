@@ -24,6 +24,7 @@ http://www.riss.kr/link?id=T15073557
 E-mail : perfection8@naver.com
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 - Multilingual Abstract
 
 Measurement invariance between comparative groups should be met to properly interpret the differences of latent variables. It is difficult to conclude whether the differences in test scores are due to level differences in the actual latent variable or because the items function differentially according to the group. Therefore, before comparing latent variables among groups, measurement invariance is a prerequisite.
@@ -33,6 +34,7 @@ However, the disadvantage of the alignment is that there is no cross-load in the
 The results of the analysis showed that the factor mean of WISC-V estimated by alignment tended to increase gradually with increasing age. In addition, in the result of the alignment analysis of the first order factor of Mplus, the invariance set was presented for each estimate, so that the group with approximate measurement invariance was found and the group which violated it. Therefore, it was possible to confirm which items functioned differently among the group.
 
 - 국문 초록
+
  잠재변수의 차이를 타당하게 해석하기 위해서는 비교 집단 간 측정 동일성이 충족되어야 한다. 측정 동일성이 위배될 경우 검사점수의 차이가 실제 잠재변수에서 수준 차이로 인한 것인지, 혹은 문항이 집단에 따라 차별적으로 기능했기 때문인지 결론을 내리기 어렵다. 따라서 집단 간 잠재변수를 비교하기 이전에, 측정 동일성은 선결되어야 할 조건이라 할 수 있다.
 측정 동일성이 위배 되었을 경우, 기존의 접근 방법은 부분 측정 동일성을 확보하는 대안을 제시하고 있다. 부분 측정 동일성은 수정지수가 큰 부분부터 모형을 사후적으로 수정하게 된다. 모형적합도의 변화량이 측정 동일성을 충족하는 값에 이를 때까지 특정 추정치가 집단 간 동일하다는 제약을 풀어준다. 이 절차는 모형이 자료에 기반하게 될 우려가 있으며, 또한 부분 측정 동일성을 확보했다 하더라도 집단 간 요인 평균을 비교하는 것이 타당하다는 근거가 부족한 실정이다.
 이에 다른 대안으로 최근에 제시된 것이 정렬법(alignment)이다. 특히, 측정 동일성은 비교 집단의 수가 많을 때 충족되기 힘들며, 실제로 비교 집단의 수가 많을 때 측정 동일성을 충족했다고 보고한 경우가 거의 없다는 것을 확인하였다. 기존의 전통적인 측정 동일성 검증 절차는 비교 집단 간 추정 모수를 동일하게 제약한다. 하지만 정렬법은 이와 달리, 비교 집단 간 추정 모수들(요인 계수, 절편)의 차이를 가장 작게 만드는 제약을 통해 추정치를 산출하고 근사 측정 동일성을 확보한다. 선행 연구에서 비 동일성(non-invariance)이 20% 이내일 때, 가상실험에서 정렬법이 기존의 측정 동일성, 부분 측정 동일성보다 정확한 모수를 산출한다고 보고하였다.
