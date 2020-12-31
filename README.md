@@ -20,7 +20,9 @@ I have implemented this while studying my master's thesis.
 See here for more detail.
 
 http://www.riss.kr/link?id=T15073557
+
 E-mail : perfection8@naver.com
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 - Multilingual Abstract
 
@@ -38,4 +40,5 @@ The results of the analysis showed that the factor mean of WISC-V estimated by a
 분석 결과에서 정렬법으로 추정한 WISC-V의 요인 평균은 연령이 증가할수록 점진적으로 상승하는 경향을 확인할 수 있었다. Mplus를 사용하여 1차 요인들을 정렬법으로 분석한 결과에서 동일성 세트(invariance set)를 추정치별로 제시하여 근사 측정 동일성이 6~8세의 몇몇 소검사에서 위배되는 것을 확인하였다. 따라서 어떤 문항이 어느 집단에 차별적으로 기능하는지 확인할 수 있었다.
 
 ※. 주제어(Keyword) : 2차 요인 모형(second order factor model), 근사 측정 동일성(approximate measurement invariance), 다집단 확인적 요인분석(multi-group confirmatory factor analysis), 측정 동일성(measurement invariance), 정렬법(alignment)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
